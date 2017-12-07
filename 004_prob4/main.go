@@ -9,7 +9,7 @@ import (
 //
 //Find the largest palindrome made from the product of two 3-digit numbers.
 //
-//	This one is hard! Basically looked at a bunch of C examples of this problem. This is a pretty good way to do it, but feels messy because im terrible. Will have to make it pretty later.
+//	This was hard or I'm tired. Basically looked at a bunch of C examples of this problem. This is a pretty good way to do it, but feels messy because im terrible. Will have to make it pretty later.
 
 
 func isPal(n int64) bool {
